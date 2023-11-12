@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "wsm.h": "c",
+        "stdint.h": "c",
+        "wlanaccess.h": "c"
+    }
+}

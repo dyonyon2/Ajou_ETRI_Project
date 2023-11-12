@@ -1,0 +1,1 @@
+cmd_/home/leesk/v2x-sdk16/example/wsm_e_v1/Netlink/kajou.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/leesk/v2x-sdk16/example/wsm_e_v1/Netlink/kajou.ko /home/leesk/v2x-sdk16/example/wsm_e_v1/Netlink/kajou.o /home/leesk/v2x-sdk16/example/wsm_e_v1/Netlink/kajou.mod.o ;  true
